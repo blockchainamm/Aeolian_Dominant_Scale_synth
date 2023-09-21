@@ -2,7 +2,7 @@
 
 This python script can emulate an Aeolian Dominant or Hindu scale synthesizer
 
-The frequencies in Hz of ascending notes for C4 in the Hindu or Aeolian dominant scale\
+The frequencies in Hz of ascending notes for C4 as root note in the Hindu or Aeolian dominant scale\
 261.6256\
 293.6648\
 329.6276\
@@ -12,7 +12,7 @@ The frequencies in Hz of ascending notes for C4 in the Hindu or Aeolian dominant
 466.1638\
 523.2511
 
-The frequencies in Hz of descending notes for C4 in the Hindu or Aeolian dominant scale\
+The frequencies in Hz of descending notes for C4 as root note in the Hindu or Aeolian dominant scale\
 523.2511\
 466.1638\
 415.3047\
